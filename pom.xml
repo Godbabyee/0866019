@@ -60,7 +60,7 @@
 					<appendAssemblyId>false</appendAssemblyId>
 					<archive>
 						<manifest>
-							<mainClass>io.github.Godbabyee.0866019.PriorityQueue</mainClass>
+							<mainClass>io.github.Godbabyee.0866019.PriorityQueueTest</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
