@@ -56,7 +56,7 @@
 					<descriptorRefs>
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
-					<finalName>travis-ci-tutorial</finalName>
+					<finalName>0866019</finalName>
 					<appendAssemblyId>false</appendAssemblyId>
 					<archive>
 						<manifest>
